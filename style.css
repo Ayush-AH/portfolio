@@ -110,6 +110,7 @@ width: 100%;
     z-index: 99;
     border-radius: 50%;
     mix-blend-mode: difference;
+    pointer-events: none;
 }
 #main{
     background-color: black;
@@ -255,6 +256,9 @@ width: 100%;
     align-items: center;
 }
 #rt{
+    display: flex;
+    align-items: center;
+    justify-content: end;
     text-align: right;
 }
 #page3 h1{
