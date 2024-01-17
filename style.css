@@ -9,6 +9,10 @@
     font-family: head;
     src: url(./Heading-Now-Variable.ttf);
 }
+@font-face {
+    font-family:gilroy;
+    src: url(./Gilroy-Medium.ttf);
+}
 *{
 margin: 0;
 padding: 0;
